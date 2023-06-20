@@ -1,0 +1,12 @@
+
+n
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ
+z
+java:S1128"_Remove this unused import 'org.springframework.context.support.ClassPathXmlApplicationContext'.(•ËÛüÿÿÿÿ
+a
+java:S1128"KRemove this unused import 'org.springframework.context.ApplicationContext'.(»Ô»¿
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+Q
+java:S1874"6Remove this use of "XmlBeanFactory"; it is deprecated.(…†éåşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(úåÛá
